@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Adityacodes07/my-portfolio/static/css/main.7a3daad0.css",
-    "main.js": "/Adityacodes07/my-portfolio/static/js/main.0f808311.js",
-    "static/js/453.ececc0a5.chunk.js": "/Adityacodes07/my-portfolio/static/js/453.ececc0a5.chunk.js",
-    "static/media/WhatsApp Image 2025-11-22 at 22.27.31_76c62a93.jpg": "/Adityacodes07/my-portfolio/static/media/WhatsApp Image 2025-11-22 at 22.27.31_76c62a93.7a0c14e5984f11ecb453.jpg",
-    "index.html": "/Adityacodes07/my-portfolio/index.html",
-    "main.7a3daad0.css.map": "/Adityacodes07/my-portfolio/static/css/main.7a3daad0.css.map",
-    "main.0f808311.js.map": "/Adityacodes07/my-portfolio/static/js/main.0f808311.js.map",
-    "453.ececc0a5.chunk.js.map": "/Adityacodes07/my-portfolio/static/js/453.ececc0a5.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.7a3daad0.css",
+    "main.js": "/my-portfolio/static/js/main.b463cc08.js",
+    "static/js/453.ececc0a5.chunk.js": "/my-portfolio/static/js/453.ececc0a5.chunk.js",
+    "static/media/WhatsApp Image 2025-11-22 at 22.27.31_76c62a93.jpg": "/my-portfolio/static/media/WhatsApp Image 2025-11-22 at 22.27.31_76c62a93.7a0c14e5984f11ecb453.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.7a3daad0.css.map": "/my-portfolio/static/css/main.7a3daad0.css.map",
+    "main.b463cc08.js.map": "/my-portfolio/static/js/main.b463cc08.js.map",
+    "453.ececc0a5.chunk.js.map": "/my-portfolio/static/js/453.ececc0a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a3daad0.css",
-    "static/js/main.0f808311.js"
+    "static/js/main.b463cc08.js"
   ]
 }
